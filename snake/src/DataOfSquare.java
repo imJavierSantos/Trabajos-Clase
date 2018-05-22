@@ -4,6 +4,11 @@ import java.awt.Color;
 public class DataOfSquare {
 
 	
+	TUNNEL SNAKES RULE
+		WE ARE THE TUNNEL SNAKES
+		THAT'S US
+		AN WE RULE RU-RU-RULE
+	
 	//ArrayList that'll contain the colors
 	ArrayList<Color> C =new ArrayList<Color>();
 	int color; //2: snake , 1: food, 0:empty 
